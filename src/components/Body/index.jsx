@@ -15,15 +15,15 @@ export function Body() {
                     </Text>
                     <br />
                     <Text>
-                        Porém, felizmente, a prevenção também é o ponto forte do país. A Agência de Meteorologia do Japão (JMA) monitora durante 24 horas os montes mais perigosos com câmeras e equipamentos, com foco nas crateras com maior risco de explosão. Porém, um estudo recente da própria JMA mostrou que há 21 vulcões que podem entrar em erupção por crateras não monitoradas.
+                        Porém, felizmente, a prevenção também é o ponto forte do país. A Agência de Meteorologia do Japão (JMA) monitora durante 24 horas os montes mais perigosos com câmeras e equipamentos, com foco nas crateras com maior risco de explosão.
                     </Text>
                     <br />
                     <Text>
-                        Nem é preciso dizer que, como consequência, o órgão já está se movimentando para garantir câmeras de segurança que vigiem essas crateras e evitar que um novo desastre como o ocorrido no Monte Kusatsu Shirane em Gunma (mesma região de Tóquio) tire a vida de pessoas. No ano passado, uma erupção surpresa por uma cratera que era considerada de baixo risco provocou a morte de uma pessoa e deixou 11 feridas.
+                        Nem é preciso dizer que, como consequência, o órgão já está se movimentando para garantir câmeras de segurança que vigiem essas crateras e evitar que um novo desastre como o ocorrido no Monte Kusatsu Shirane em Gunma (mesma região de Tóquio) tire a vida de pessoas.
                     </Text>
                     <br />
                     <Text>
-                        Mas, a coluna deste mês não é para falar dos riscos dos vulcões e sim de suas belezas e do excêntrico turismo ao redor deles. Para nós brasileiros, que viemos de um país sem vulcões, observar essas paisagens de perto é emocionante.
+                        Mas, a coluna deste mês não é para falar dos riscos dos vulcões e sim de suas belezas e do excêntrico turismo ao redor deles.
                     </Text>
                     <br />
                     <Text>
